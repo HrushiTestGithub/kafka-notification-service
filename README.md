@@ -1,2 +1,11 @@
-# kafka-notification-service
-Kafka Producer Consumer Notification Service using Spring Boot
+# Kafka Notification Service
+
+## Tech Stack
+- Java 17
+- Spring Boot
+- Apache Kafka
+
+## Features
+- Kafka Producer
+- Kafka Consumer
+- Notification Processing
